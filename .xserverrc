@@ -1,0 +1,1 @@
+exec /usr/bin/Xorg -nolisten tcp -nolisten local -keeptty -ardelay 250 -arinterval 40 "$@" vt$XDG_VTNR &> /dev/null
