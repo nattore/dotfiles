@@ -8,6 +8,9 @@
 # environment variables
 #
 
+# eza colors
+# export LS_COLORS="$(vivid generate catppuccin-mocha)"
+
 # lf
 export PISTOL_CHROMA_FORMATTER=terminal16m # for chroma highlithing
 export PISTOL_CHROMA_STYLE=catppuccin-mocha
