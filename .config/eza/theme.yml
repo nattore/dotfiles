@@ -13,15 +13,15 @@ filekinds:
   mount_point: {foreground: "#74C7EC"}
 
 perms:
-  user_read: {foreground: "#CDD6F4"}
-  user_write: {foreground: "#F9E2AF"}
+  user_read: {foreground: "#b4befe"}
+  user_write: {foreground: "#fab387"}
   user_execute_file: {foreground: "#A6E3A1"}
   user_execute_other: {foreground: "#A6E3A1"}
-  group_read: {foreground: "#BAC2DE"}
-  group_write: {foreground: "#F9E2AF"}
+  group_read: {foreground: "#b4befe"}
+  group_write: {foreground: "#fab387"}
   group_execute: {foreground: "#A6E3A1"}
-  other_read: {foreground: "#A6ADC8"}
-  other_write: {foreground: "#F9E2AF"}
+  other_read: {foreground: "#b4befe"}
+  other_write: {foreground: "#fab387"}
   other_execute: {foreground: "#A6E3A1"}
   special_user_file: {foreground: "#CBA6F7"}
   special_other: {foreground: "#585B70"}
@@ -42,10 +42,10 @@ size:
   unit_huge: {foreground: "#74C7EC"}
 
 users:
-  user_you: {foreground: "#CDD6F4"}
+  user_you: {foreground: "#b4befe"}
   user_root: {foreground: "#F38BA8"}
   user_other: {foreground: "#CBA6F7"}
-  group_yours: {foreground: "#BAC2DE"}
+  group_yours: {foreground: "#b4befe"}
   group_other: {foreground: "#7F849C"}
   group_root: {foreground: "#F38BA8"}
 
@@ -89,7 +89,7 @@ file_type:
   source: {foreground: "#89B4FA"}
 
 punctuation: {foreground: "#7F849C"}
-date: {foreground: "#F9E2AF"}
+date: {foreground: "#f9e2af"}
 inode: {foreground: "#A6ADC8"}
 blocks: {foreground: "#9399B2"}
 header: {foreground: "#CDD6F4"}
